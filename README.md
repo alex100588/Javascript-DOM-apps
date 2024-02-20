@@ -1,1 +1,1 @@
-Deployerd https://weathervremea.netlify.app/
+Deployed https://weathervremea.netlify.app/
